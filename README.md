@@ -25,7 +25,6 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=CC0000)
 ![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=Codeigniter&color=E34F26)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&color=61DAFB)
-![](https://img.shields.io/badge/Code-Google-Cloud-informational?style=flat&logo=googlecloud&color=CC0000)
 
 
 ## 📈 GitHub Stats 
