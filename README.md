@@ -22,9 +22,9 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ajax-informational?style=flat&logo=Ajax-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=Mysql&color=E34F26)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=Mysql&color=003B57)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=336791)
-![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=Codeigniter&color=003B57)
+![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=Codeigniter&color=E34F26)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&color=fc8c03)
 
 ## 📈 GitHub Stats 
