@@ -7,7 +7,6 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 
 ## 🔭 I'm currently working on
 
-- My current office
 - Optimizing script for scraper
 - Optimizing Web Dashboard for Node Automation and Stats
 
