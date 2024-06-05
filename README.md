@@ -9,6 +9,7 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 
 - My current office
 - Optimizing script for scraper
+- Optimizing Web Dashboard for Node Automation and Stats
 
 ## 🌱 I'm currently learning
 
@@ -24,7 +25,7 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=SQLite&color=fc8c03)
 
 ## 📈 GitHub Stats 
 
