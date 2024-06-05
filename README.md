@@ -28,8 +28,7 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zainantum)](https://github.com/zainantum)
+[![Zain's github stats](https://github-readme-stats.vercel.app/api?username=zainantum)](https://github.com/zainantum)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainantum&layout=compact)](https://github.com/zainantum)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=zainantum.zainantum)](https://imronmaulana.my.id/)
