@@ -17,15 +17,15 @@ I am an experienced back-end developer (3 years) who is passionate about text mi
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Java-Script-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ajax-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=SQLite&color=fc8c03)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=CC342D)
+![](https://img.shields.io/badge/Code-Ajax-informational?style=flat&logo=Ajax-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=Mysql&color=E34F26)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=336791)
+![](https://img.shields.io/badge/Code-Codeigniter-informational?style=flat&logo=Codeigniter&color=003B57)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&color=fc8c03)
 
 ## 📈 GitHub Stats 
 
