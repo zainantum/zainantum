@@ -3,7 +3,7 @@
 I'm a Back-end Developer 💻, Data Analyst 💻, and Node Enthusiast!
 </h2> 
 
-I am an experienced back-end developer (3 years) who is passionate about text mining (1 years), data mining and decision support system. I am also experienced in Web Development, REST API, Virtual Machine, Docker and Web Scraper using python.
+I am a seasoned Back-End Developer with over three years of experience in building and maintaining robust web applications. My expertise extends to text mining and decision support systems, where I have leveraged advanced techniques to derive meaningful insights from large datasets. I am proficient in developing and integrating RESTful APIs, ensuring seamless communication between client and server. Additionally, I have hands-on experience with virtual machines and Docker, enhancing deployment efficiency and scalability. My skill set also includes web scraping using Python, allowing me to automate data extraction and streamline processes effectively.
 
 ## 🔭 I'm currently working on
 
