@@ -28,7 +28,7 @@ I am a seasoned Back-End Developer with over three years of experience in buildi
 
 ## 📈 GitHub Stats 
 
-[![Zain's github stats](https://github-readme-stats.vercel.app/api?username=zainantum)](https://github.com/zainantum)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainantum&layout=compact)](https://github.com/zainantum)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zainantum&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=zainantum&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zainantum&layout=compact&theme=radical)
 
